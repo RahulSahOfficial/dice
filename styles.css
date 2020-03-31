@@ -1,0 +1,37 @@
+body{
+  background-color: #808080;
+}
+.top-heading{
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Roboto Slab', serif;
+  color: cyan;
+}
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Noto Sans', sans-serif; */
+.row{
+  margin: 5% auto;
+}
+td{
+  padding: 0 10%;
+}
+.row{
+  text-align: center;
+  /* margin: 10% auto; */
+  font-family: 'Noto Sans', sans-serif;
+}
+/* .player-1{
+margin: 5%;
+} */
+.footer{
+  text-align: center;
+  font-size: 1.3rem;
+  color: #fff;
+  font-family: 'Noto Sans', sans-serif;
+}
+.dice1{
+  width: 100%;
+}
+.dice2{
+  width: 100%;
+}
